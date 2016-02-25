@@ -1,0 +1,16 @@
+// json3.json
+{
+  "result":[
+  {
+    "name":"title1",
+    "url":"http://google.co.kr/1"
+  },
+  {
+    "name":"title2",
+    "url":"http://google.co.kr/2"
+  },
+  {
+    "name":"title3",
+    "url":"http://google.co.kr/3"
+  }]
+}

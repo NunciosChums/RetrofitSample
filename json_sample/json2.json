@@ -1,0 +1,11 @@
+// json2.json
+[
+  {
+    "name":"title1",
+    "url":"http://google.co.kr/1"
+  },
+  {
+    "name":"title2",
+    "url":"http://google.co.kr/2"
+  }
+]
