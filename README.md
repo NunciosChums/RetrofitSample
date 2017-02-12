@@ -1,5 +1,7 @@
 # RetrofitSample
-Retrofit : http://square.github.io/retrofit/
+Retrofit: http://square.github.io/retrofit/
+
+설명: http://susemi99.kr/3773
 
 
 ``` json
